@@ -47,3 +47,35 @@ Accurate scheduling is essential for the project to be completed on time and wit
 
 Building the Project
 Once the schedule is completed, the actual building process occurs from the ground up. As the various construction crews perform their tasks, the building begins to take shape. However, materials may not arrive on time, or bad weather may prevent crews from working. The schedule may need to be readjusted to account for s
+
+### Day 3
+
+You might have heard about some famous Architects like Frank Lloyd Wright or Phillip Johnson. But what do architects really do? What are they responsible for, and how are they involved with construction?
+
+The building process doesn't begin on the first day of construction. Important decisions need to be made long before ground is broken on a site. First, an Architect designs and draws the building. 
+
+The architect discusses plans with the owner and decides how the structure will be used, what it will look like, and which materials will be selected.
+**How does the architect communicate what the building should look like? How do construction crews know what to build? The answer to both of these questions is that the architect creates a set of plans called drawings. Detailed drawings show the appearance of the completed building.**
+
+Architects need to use a standardized system of symbols to represent walls, windows, and even sinks and chairs. With this system, everyone involved in the process sees, reads, and speaks about the same items using the same terms.
+
+These symbols and abbreviations are part of the standards set by the American National Standards Institute (ANSI). Some examples of items represented by symbols are:
+Doors
+Windows
+Sinks
+Toilets
+Architects may use different methods to produce drawings, based on which schools they attended and how they were taught. Some architects use computer-aided design, or CAD, very early in the design process.
+
+Other architects prefer to produce the conceptual, or initial, drawings by hand, then input the design into a computer later in the design process. Either way, there are distinct advantages to using CAD software at some point.
+CAD software is special software designed to help architects and construction professionals save time. For instance, CAD can perform time-intensive calculations automatically. Also, CAD designs can be changed or revised easily, eliminating the need to completely redraw them by hand. Designs can be created in layers and used in several ways during a project design. Yet CAD software does have a few disadvantages, including the initial expense and the time required to learn to use it efficiently.
+Architects use two methods to show what a building will look like when it's finished: pictorial and multi-view drawings.
+
+Pictorial drawings, usually drawn in color, represent how the building and landscape will look from one vantage point, or perspective. A multi-view drawing displays various views of the building, including the front, top, and one side.
+What would happen if construction crews were given only a pictorial drawing? They wouldn't have any idea how to construct the actual building. Construction crews need detailed plans. Typically, there are three different ways to provide explicit details to the construction crew. They are: 
+Plan view
+Section view
+Elevation view
+magine removing the roof of a one-story house and peering straight down from above. From this viewpoint, you could see the entire floor plan of the house.
+note_add
+Note
+> A floor plan shows the location and size of all walls, doors, and windows in the building. Each floor of the building has its own floor plan.
