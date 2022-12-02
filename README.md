@@ -72,7 +72,7 @@ Architects use two methods to show what a building will look like when it's fini
 
 Pictorial drawings, usually drawn in color, represent how the building and landscape will look from one vantage point, or perspective. A multi-view drawing displays various views of the building, including the front, top, and one side.
 What would happen if construction crews were given only a pictorial drawing? They wouldn't have any idea how to construct the actual building. Construction crews need detailed plans. Typically, there are three different ways to provide explicit details to the construction crew. They are: 
-Plan view
+## Plan view
 Section view
 Elevation view
 magine removing the roof of a one-story house and peering straight down from above. From this viewpoint, you could see the entire floor plan of the house.
@@ -80,8 +80,18 @@ note_add
 Note
 > A floor plan shows the location and size of all walls, doors, and windows in the building. Each floor of the building has its own floor plan.
 
-### Section View
+## Section View
 To visualize a section view, imagine cutting a slice of a layer cake. After you take out the slice, you can see a cross-section of the cake's contents. A section view of a building shows how all the floors of the building relate to each other.
 note_add
 Note
-Section views make it easy to see how stairs, vents, plumbing, and electrical wiring fit together on each floor of the building.
+> Section views make it easy to see how stairs, vents, plumbing, and electrical wiring fit together on each floor of the building.
+
+## Elevation View
+To picture the elevation view of a building, imagine that you were walking around the building photographing it. An elevation drawing shows the exterior of all sides of a building. Elevation views provide carpenters with information about floor levels, grade lines, window and door heights, and roof slopes. An elevation view also shows the different materials to be used, such as roofing surfaces and window trim.
+
+Although the architect provides several views and many details on the drawings, it's impossible to include everything. Sometimes, it's easier to explain certain types of information in writing. The construction specifications, or "specs," are written documents that tell the contractor which materials to use. For example, the specs may list the grade, or quality, of lumber to use for custom cabinets.
+
+Specification writers must be detail-oriented and have a thorough knowledge of building codes and other construction regulations.
+
+
+
