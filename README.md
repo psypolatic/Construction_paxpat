@@ -79,3 +79,9 @@ magine removing the roof of a one-story house and peering straight down from abo
 note_add
 Note
 > A floor plan shows the location and size of all walls, doors, and windows in the building. Each floor of the building has its own floor plan.
+
+### Section View
+To visualize a section view, imagine cutting a slice of a layer cake. After you take out the slice, you can see a cross-section of the cake's contents. A section view of a building shows how all the floors of the building relate to each other.
+note_add
+Note
+Section views make it easy to see how stairs, vents, plumbing, and electrical wiring fit together on each floor of the building.
