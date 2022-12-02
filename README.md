@@ -67,6 +67,9 @@ Toilets
 Architects may use different methods to produce drawings, based on which schools they attended and how they were taught. Some architects use computer-aided design, or CAD, very early in the design process.
 
 Other architects prefer to produce the conceptual, or initial, drawings by hand, then input the design into a computer later in the design process. Either way, there are distinct advantages to using CAD software at some point.
+
+## CAD Software
+
 CAD software is special software designed to help architects and construction professionals save time. For instance, CAD can perform time-intensive calculations automatically. Also, CAD designs can be changed or revised easily, eliminating the need to completely redraw them by hand. Designs can be created in layers and used in several ways during a project design. Yet CAD software does have a few disadvantages, including the initial expense and the time required to learn to use it efficiently.
 Architects use two methods to show what a building will look like when it's finished: pictorial and multi-view drawings.
 
