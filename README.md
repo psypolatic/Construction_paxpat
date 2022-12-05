@@ -1,5 +1,5 @@
 # Construction_paxpat
-### Day 1
+#### Day 1
 ## A system is a group of parts working together to accomplish a goal. There are four basic parts of a systems model:
 Inputs
 Process
@@ -48,7 +48,7 @@ Accurate scheduling is essential for the project to be completed on time and wit
 Building the Project
 Once the schedule is completed, the actual building process occurs from the ground up. As the various construction crews perform their tasks, the building begins to take shape. However, materials may not arrive on time, or bad weather may prevent crews from working. The schedule may need to be readjusted to account for s
 
-### Day 3
+#### Day 3
 
 You might have heard about some famous Architects like Frank Lloyd Wright or Phillip Johnson. But what do architects really do? What are they responsible for, and how are they involved with construction?
 
@@ -96,5 +96,45 @@ Although the architect provides several views and many details on the drawings, 
 
 Specification writers must be detail-oriented and have a thorough knowledge of building codes and other construction regulations.
 
+
+#### Day 4
+
+### Blueprints
+As you recall, architects create an original scaled drawing that incorporates all the information the construction crews will use. Copies of these original drawings are called blueprints. 
+
+There are several parts to a blueprint. Architects supply construction crews with sets of plans that lay out how the building will be built from the ground up. These plans include:
+A plot plan
+A foundation or basement plan
+Floor plans
+Elevation drawings
+Framing plans
+Drawings of the electrical, plumbing, heating, and air conditioning layouts
+The scale that was used to create the drawings
+## Plot Plan
+You use a plot plan, or site plan, to determine exactly where to place the structure on the property. The plot plan includes the location of the building in relation to the property line, the trees that you want to remain on the lot, and the finished grade. The finished grade is the site's elevation above sea level when the project is finished. The plot plan also shows the drainage of the area around the building and any easements, which are areas that can't be built upon.
+## Foundation Plan
+Since the foundation supports the weight of the entire structure, it's crucial that it be built correctly. If the foundation isn't strong and rigid, the building could flex or crack. The foundation plan shows how it should be laid out, as well as any special considerations that go into the foundation, such as a basement with windows. The plan will show whether any support bars are needed and, if so, where to place them.
+## Framing plans
+ Framing plans detail how to build the interior and exterior walls of the structure. The plan provides special detailed drawings for the load-bearing walls that support the structure. Framing plans also show the details for the flooring, ceilings, roof, and the placement of stairs.
+## Other Layouts
+ The electrical, plumbing, and heating and air conditioning layouts often have their own plans. In some cases, they're included as part of another plan. Therefore, it's important to study all the plans thoroughly
+ 
+ ### General Contractor
+ The General Contractor, or GC for short, is responsible for the overall construction of the project. Project delays cost money. Therefore, it's the GC's responsibility to make sure the job is completed on time.
+
+In smaller companies, the general contractor is closely involved in the daily project details, such as determining when materials should be delivered to the site and how long each part of the construction process should last. In larger companies, the general contractor pays the bills and deals with owners, but isn't directly involved in the daily activities of the project..
+
+### Superintendent
+The superintendent's job on most construction sites is to supervise the subcontractors or job crews. The "super" also makes sure that the day-to-day job activities run smoothly. If a problem arises at the building site, it's the superintendent's job to find a way to resolve it.
+
+The superintendent is hired by the general contractor and usually works out of a construction trailer located on or near the site.
+
+### Subcontractors & Labor Force
+## Subcontractors
+ A contractor doesn't have the staff to perform each phase of the job. So subcontractors are hired to perform specific tasks. Since subcontractors specialize in particular construction tasks, there are usually many different subcontractors involved in the construction process.
+
+For example, a contractor may need a backhoe operator to excavate for the foundation, a mason to lay tile floors, and a welder to bolt and weld girders 30 stories in the air. The subcontractor may work alone or may direct a crew of several people to complete the job.
+## labor force
+ Laborers do all of the supportive tasks at a construction site. They perform a lot of hard physical work; they dig, shovel, and do most of the cleanup. The work they do is vital to the construction team. Laborers are not considered tradespeople, although many of them are in training to become tradespeople.
 
 
