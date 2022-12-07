@@ -210,3 +210,30 @@ Then, several pieces of lumber, called floor joists, are placed perpendicularly 
 The subfloor is the last part of the floor frame process. The subfloor usually consists of 3/4-inch plywood panels that are nailed on top of the joists to form the first layer of walkable floor area.
 
 When the subfloor is installed, the plywood sheets are arranged so that the joints are staggered. This layout makes the floor stronger. Glue is often applied to the joists first, which keeps the floors from squeaking later. Then, the underlayment, or subflooring sheets, are nailed or screwed to the joists.
+
+# Day 7
+
+We've learned a lot about the first phase of the construction process: the site work, the foundation, and the floor frame. Now we're ready to build the skeleton of the house so it can really take shape. The second phase of the construction process is the framing and roofing of the building.
+
+Once the flooring is in place, the next step is to build the exterior and interior skeleton of the building in a process called framing. The walls are built first. There are two types of walls:
+Load-bearing (or weight-bearing), which help support the weight of the structure above them
+Partitions, which divide the building into separate rooms, but don't support weight
+In addition to the weight-bearing walls, frame structures, called framing, also support the building. The walls are connected to these frame structures. The frames can be made of wood, steel, or reinforced concrete. However, in most residential construction, the frames are made of wood.
+
+Before Framing Carpenters actually start building the walls, they snap chalk lines to mark where the walls of the building will be located.
+
+
+Note
+The basic parts of the wall frame are the top plates, bottom plates, and the studs. The plates are horizontal pieces at the top and bottom of the wall. The studs are fastened between the top and bottom plates. All these parts are usually made of 2" x 4" lumber.
+
+In order to put a window or door into the wall, you have to remove some of the studs. How will this affect the wall's strength? To compensate for the lack of studs and prevent the top plate from sagging, headers are installed.
+
+Headers are usually made of two pieces of 2" lumber that are placed on edge and nailed together. The headers are placed at the top of the window or door area.
+
+The headers support the weight above them. To support the headers, additional wooden members, called trimmers, are nailed vertically to the studs directly below the headers. This new structure compensates for the wall opening by distributing the load to the sides of the opening. It also strengthens the studs on each side of the window or door opening.
+
+Usually, window openings don't extend all the way to the floor, so a horizontal piece of wood is nailed to the bottom of the trimmers to add support. You're probably familiar with it--it's called a windowsill. 
+
+Shorter studs, called jack studs, are placed below the windowsill to support it. Jack studs are spaced the same distance apart as the rest of the studs in the wall to maintain the 4-foot modular structure.
+
+On most residential projects, carpenters assemble the wall frames at the construction site. Once the wall frame unit is assembled, the framers measure across the framed wall diagonally to make sure it's even, or "square." Then, the framers tilt the wall up into place and brace it in a plumb position. When the walls are upright, the corners are nailed together.
