@@ -137,4 +137,30 @@ For example, a contractor may need a backhoe operator to excavate for the founda
 ## labor force
  Laborers do all of the supportive tasks at a construction site. They perform a lot of hard physical work; they dig, shovel, and do most of the cleanup. The work they do is vital to the construction team. Laborers are not considered tradespeople, although many of them are in training to become tradespeople.
 
+# day 5
+As you recall, the building process is similar for all types of construction, although large civil and industrial projects involve more sophisticated techniques and machinery. We're going to examine how the residential construction process works by building a house from the ground up.
+
+Keep in mind that the process can vary from project to project. Yet the construction of even a simple residence requires many steps. The superintendent must pay close attention to the schedule to prevent things like weather and late delivery of materials from delaying the project.
+Before any project is constructed, the actual building site has to be prepared to achieve a level contour. To do this, contractors use topographical drawings. Such drawings are plan views that show the shape of the land, as well as other important geographical features like roads, buildings, and trees.
+
+The point between a hilltop and the bottom of the hill is very different in elevation. 
+
+To measure the difference between the two points, Surveyors take photographs with a stereoscopic instrument. Then, they create topographical drawings based on the photographs and their surveyor's notes.
+
+On a topographical drawing, a contour line shows the elevation in feet above sea level. Two contour lines show the difference in elevation between two areas. The line that indicates the difference between the two points on a drawing is called the vertical contour interval.
+
+The plot plan establishes the setback, which is the distance from the front of the house to the street. The contractor uses stakes to mark the front of the house. Then, a builder's level or transit is used to lay out the other corners of the building.
+
+A builder's level and a transit are tools that allow the builder to check the level from one corner to another corner of the building. The builder's level uses a target rod, which is a measuring device with a scale graduated in inches and fractions of an inch. The builder's level sits over a corner stake. Then, it's focused on the target rod held at the other corner stake.
+
+Note
+Using a transit is slightly different because the viewing lens on the transit focuses vertically up or down to read the angles.
+Batter Boards
+Batter boards are used to show the excavation and foundation crews where the building's exterior walls will be. They're constructed about five feet outside each corner of the building so they won't interfere with any excavation or trenching activities.
+
+First, wooden stakes are driven into the ground and crosspieces are nailed to them. Next, lines are strung across the corner stakes to mark the building lines. Finally, the contractor suspends a plumb bob over the stake to check the accuracy of the building line before marking the batter board.
+
+Before it's time to build the base of the building, or foundation, the soil must be prepared. Different types of building foundations are used in different regions, according to the soil, drainage, and weather conditions. Excavators use heavy equipment at the site to level the lot, dig a foundation or trench, or excavate for a basement. The weight of a building must be supported by the soil that is beneath it.
+
+Finally, the excavator grades, or smoothes out, the land surrounding the building lines to a rough grade. The rough grade leaves the dirt a few inches lower than the finished grade so that there is room for topsoil. The surveyor marks the grade stakes to show the excavator the correct level. In some situations, low spots must be raised with "fill" dirt. Other times, higher areas must be shaved off, or "cut."
 
