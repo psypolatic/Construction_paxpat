@@ -164,3 +164,49 @@ Before it's time to build the base of the building, or foundation, the soil must
 
 Finally, the excavator grades, or smoothes out, the land surrounding the building lines to a rough grade. The rough grade leaves the dirt a few inches lower than the finished grade so that there is room for topsoil. The surveyor marks the grade stakes to show the excavator the correct level. In some situations, low spots must be raised with "fill" dirt. Other times, higher areas must be shaved off, or "cut."
 
+
+# Day 6
+
+As you learned, the first step in the actual construction of a building is preparing the site. After the site work is finished, you're ready to build the foundation. The foundation is the area under the ground floor of the building. Its purpose is to support the weight of the entire building over a greater area and to keep the building from shifting and settling.
+
+Without a strong, carefully built foundation, the structure will fail; it may crack, shift, or even collapse. Contractors use one of several techniques to build foundations, depending on the climate, soil conditions, and available materials.
+
+In warmer climates, slab-on-grade foundations are used so that minimal excavation is needed. The concrete-formwork carpenters build wooden forms around the perimeter of the location for the slab. Next, sand or loam is spread inside the form, since either one has very stable soil characteristics. Then, the sand or loam is trenched to make pads for the plumbing supply pipes and the concrete beams. A plastic vapor barrier is placed between the dirt and the concrete to reduce moisture. Plumbing supply and electrical wires are laid, and steel post-tension cables are stretched in a grid pattern across the entire length and width of the forms. Finally, the concrete slab is poured into the forms, where it will strengthen and cure, or solidify.
+
+In colder climates, foundations have to extend below the winter frost line. Such foundations are made of footings and walls. Foundation walls that support the weight of a building are from 6 to 12 inches thick. Because these walls are heavy and exert a lot of pressure on the ground beneath them, they rest on footings. Footings are flat concrete pads that extend past the foundation to spread the load to the ground.
+
+Foundation walls are usually made with either poured concrete or concrete blocks that are laid by Masons. Masons use mortar as an adhesive. A power mixer is used to form mortar to the proper consistency.
+
+As you've learned, the footing is the bottom part of the foundation that transmits all of the building loads to the underlying soil. In light construction, the footings are the same depth as the thickness of the foundation wall and twice as wide.
+
+For example, if the foundation wall is 12 inches thick, the footing is built 24 inches wide and 12 inches deep.
+
+In areas where the soil moves and shifts a lot for several feet below the surface, contractors use pier or pile foundations. Piers are usually made of concrete. First, holes spaced several feet apart are dug, until solid ground is reached. Then, concrete strengthened with steel is poured into a form. Once the piers are cured, the structure will rest on grade beams that are set on top of the piers. Piles are large-diameter columns made of wood or steel that are driven into the ground by a huge pile driver. They perform the same function as piers.
+
+Concrete is a "plastic" material. This means that when it's wet, you can pour it into any shape and it will take on that shape and remain soft and workable. Yet when it cures (or hardens), it remains in that shape forever. When concrete is poured for the foundation, forms are built to hold the material in shape until it hardens. Steel reinforcements are added to give the concrete extra strength.
+
+Before masons use concrete, it must be tested to make sure it has the right consistency. The test involves placing the concrete into a mold, then removing the mold. The slump of the concrete is measured from the top of the mold to the bottom. This test assures contractors that, when the concrete is set, it will have the proper load-bearing strength.
+
+When concrete is poured into the forms, it's not smooth and level. To make it level, it is screed, floated, and troweled.
+Screeding is the process of moving a straight board back and forth across the surface of the wet concrete to begin smoothing it out. 
+Floating is a process of pushing coarse aggregate down into the concrete, while maintaining the fine aggregate and sand on top. A magnesium float is moved over the surface. 
+Troweling is the process of refining and smoothing the surface with a steel trowel after the concrete begins to set.
+
+The building is made of two basic parts: the foundation and the superstructure. The superstructure includes everything above the foundation of a building. It's divided into three main parts:
+Floors, which divide the building into levels
+Walls, which divide the building into rooms
+A roof structure, which furnishes support for the roof
+
+Construction technology has standardized the dimensions of most buildings and materials to improve efficiency and eliminate waste. In the United States, this standard is based on a basic unit of 4 inches
+
+Most plywood, particleboard, and wallboard come in 4-feet by 8-feet panels. If you divide the panel by 4 inches, its width is twelve 4-inch modules, and its length is twenty-four 4-inch modules. Most buildings in the United States are based on a 24-inch modular design.
+
+The floor frame incorporates the top of the foundation to the first layer of flooring and all the elements that support the floor. The floor frame is like the backbone of the building, because all the rest of the building's skeletal frame attaches to it.
+
+If a concrete slab or a concrete block foundation is used, pieces of wood, called sills, are bolted to the foundation to build the floor frame. These sills serve as the base for the walls. If a wall foundation or pier-and-beam construction is used, the first layer of the floor frame consists of support columns made of masonry or metal. Next, girders are placed on top of the support columns. Girders are long pieces of steel or wood that run the length of the building.
+
+Then, several pieces of lumber, called floor joists, are placed perpendicularly on top of the girders. Wooden joists are most commonly used in residential construction. They're usually spaced 16 or 24 inches apart and are 8 to 12 inches deep. The end of each joist rests on top of the girder and is nailed to a joist header to complete the frame, which gives it strength and stability.
+
+The subfloor is the last part of the floor frame process. The subfloor usually consists of 3/4-inch plywood panels that are nailed on top of the joists to form the first layer of walkable floor area.
+
+When the subfloor is installed, the plywood sheets are arranged so that the joints are staggered. This layout makes the floor stronger. Glue is often applied to the joists first, which keeps the floors from squeaking later. Then, the underlayment, or subflooring sheets, are nailed or screwed to the joists.
